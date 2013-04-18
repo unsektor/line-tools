@@ -1,8 +1,8 @@
 {
 	"author": "Михаил Драгункин <unsektor@tm-ln.ru> (http://www.tm-unsektor.net)",
 	"name": "line-tools",
-	"description": "Command line parser",
-	"version": "0.0.1",
+	"description": "Command Line Interface argument parser",
+	"version": "0.0.2",
 	"homepage": "https://github.com/unsektor/line-tools",
 	"repository":
 		{

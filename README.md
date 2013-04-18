@@ -1,6 +1,7 @@
-# line-tools - Command line arguments parser
+# line-tools - CLI arguments parser
 
-	Description will be soon.
+	Node.js Command Line Interface module. Provides CLI argument parsing.
+	Project based on http://goo.gl/bSJIV (Patrick Fisher <patrick@pwfisher.com>)
 
 ## Install
 First change directory to your project
