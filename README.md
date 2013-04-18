@@ -1,19 +1,27 @@
-[![Build Status]]
-
 # line-tools - Command line arguments parser
 
-	Description be soon.
+	Description will be soon.
 
 ## Install
-
-Install into your project from source:
+First change directory to your project
 
 ```bash
 # Change Directory to your project
 cd <...>/myNodeProjectFolder/
+```
+
+Install from NPM:
+```bash
+npm install line-tools
+```
+
+You can also install into your project from source:
+
+```bash
 # Install from sources...
 git clone git://github.com/unsektor/line-tools.git node_modules/line-tools
 ```
+
 ## Usage
 
 Require line-tools into your project:
