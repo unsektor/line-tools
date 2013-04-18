@@ -1,0 +1,28 @@
+{
+	"author": "Михаил Драгункин <unsektor@tm-ln.ru> (http://www.tm-unsektor.net)",
+	"name": "line-tools",
+	"description": "Command line parser",
+	"version": "0.0.1",
+	"homepage": "https://github.com/unsektor/line-tools",
+	"repository":
+		{
+			"type": "git",
+			"url": "git://github.com/unsektor/line-tools.git"
+		},
+	"main": "line-tools.js",
+	"engines": 
+		{
+			"node": ">= 0.4"
+		},
+	"dependencies": {},
+	"devDependencies": {},
+	"scripts":
+		{
+			"test": "node test"
+		},
+	"license":
+		{
+			"type": "MIT",
+			"url": "https://raw.github.com/unsektor/line-tools/master/LICENSE"
+		}
+}
