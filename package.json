@@ -1,28 +1,24 @@
 {
-	"author": "Михаил Драгункин <contact@unsektor.com> (http://www.unsektor.com)",
-	"name": "line-tools",
-	"description": "Command Line Interface argument parser",
-	"version": "0.1.0",
-	"homepage": "https://github.com/unsektor/line-tools",
-	"repository":
-		{
-			"type": "git",
-			"url": "git://github.com/unsektor/line-tools.git"
-		},
-	"main": "line-tools.js",
-	"engines": 
-		{
-			"node": ">= 0.4"
-		},
-	"dependencies": {},
-	"devDependencies": {},
-	"scripts":
-		{
-			"test": "node test"
-		},
-	"license":
-		{
-			"type": "MIT",
-			"url": "https://raw.github.com/unsektor/line-tools/master/LICENSE"
-		}
+  "author": "Михаил Драгункин <contact@unsektor.com> (http://www.unsektor.com)",
+  "name": "line-tools",
+  "description": "Command Line Interface argument parser",
+  "version": "0.1.1",
+  "homepage": "https://github.com/unsektor/line-tools",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/unsektor/line-tools.git"
+  },
+  "main": "line-tools.js",
+  "engines": {
+    "node": ">= 0.4"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://raw.github.com/unsektor/line-tools/master/LICENSE"
+  }
 }
