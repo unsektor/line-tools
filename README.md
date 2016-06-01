@@ -29,16 +29,16 @@ Require line-tools into your project:
 
 ```javascript
 // ...
-var arguments = require('line-tools').parse(process.argv);
+var parsed_argv = require('line-tools').parse(process.argv);
 // Let's print parse result for example
-console.log(arguments);
+console.log(parsed_argv);
 // ...
 ```
 
 ## License: MIT
 
 ```
-Copyright (c) 2013 Михаил Драгункин <tm.unsektor>
+Copyright (c) 2013-2016 Михаил Драгункин <contact@unsektor.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
